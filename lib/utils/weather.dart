@@ -3,7 +3,7 @@ import 'package:flutter_weather_app/utils/location_helper.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart';
 
-const apiKey = '33383392f9a14b130fbf22d6d72f0fbb';
+const apiKey = 'ce8f8d8a36e76b9087ae0b35830cd097';
 
 class WeatherData {
   WeatherData({@required this.locationData});
