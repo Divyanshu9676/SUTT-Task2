@@ -11,7 +11,6 @@ class MainScreen extends StatefulWidget {
 
 class _MainScreenState extends State<MainScreen> {
   int temperature;
-  //Icon weatherDisplayIcon;
   String locationName;
 
   void updateDisplayInfo(WeatherData weatherData) {
